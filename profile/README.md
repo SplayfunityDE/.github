@@ -5,6 +5,8 @@
 <h1 align="center"> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> SPLΛYFUNITY <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> </h1>
 <h3 align="center">I'm Content Creator & Developer</h3>
 
+<iframe src="https://discord.com/widget?id=873506353551925308&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## SPLΛYFUNITY
 
 **Here are some ideas to get you started:**
