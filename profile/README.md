@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> SPLΛYFUNITY <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> </h1>
-<h3 align="center">I'm Content Creator & Developer</h3>
+<h3 align="center">German Discord Server: discord.gg/splayfer</h3>
 
 <p align="center">
     <a href="https://discord.gg/splayfer"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Splayfer#9999" width="255" height="60"/></a>
