@@ -2,7 +2,7 @@
 <h3 align="center">I'm Content Creator & Developer</h3>
 
 <p align="center">
-    <a href="https://discord.gg/splayfer"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Splayfer#9999" width="255" height="20"/></a>
+    <a href="https://discord.gg/splayfer"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Splayfer#9999" width="255" height="60"/></a>
 </p>
 
 # SPLΛYFUNITY
