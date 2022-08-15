@@ -1,0 +1,2 @@
+# .github
+SPLΛYFUNITY general repository
