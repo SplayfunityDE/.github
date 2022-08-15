@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1008715699486728212/ezgif.com-gif-maker_12.gif" height="175px"/></a>
+<a href="#"> <image-crop src="/avatar.jpg" rounded></image-crop> <img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1008715699486728212/ezgif.com-gif-maker_12.gif" height="175px"/></a>
 </p>
 
 <h1 align="center"> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> SPLΛYFUNITY <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> </h1>
