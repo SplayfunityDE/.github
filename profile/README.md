@@ -2,10 +2,8 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center"> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> SPLΛYFUNITY <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> </h1>
+<h0 align="center"> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> SPLΛYFUNITY <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cyclone_1f300.png" width="30px" height="30px"> </h0>
 <h3 align="center">I'm Content Creator & Developer</h3>
-
-<font size="+5">Description</font>
 
 ## SPLΛYFUNITY
 
