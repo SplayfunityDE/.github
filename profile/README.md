@@ -31,6 +31,4 @@
 - 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
 <br/>
-
-<br/>
 <br/>
