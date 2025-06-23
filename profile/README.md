@@ -22,13 +22,13 @@
 
 ![](https://skillicons.dev/icons?i=java,github,mysql,linux,bash,git,discord,bots,mongodb)
 
-## 🔎〣 About Me
+## 🔎〣 About Us
 
 - 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/V2Vc5hpRkH)**
 
-- 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
+- 🌱│ Currently learning **Python / Bash / MySQL / HTML.**
 
-- 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
+- 🎥│ **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
 <br/>
 <br/>
