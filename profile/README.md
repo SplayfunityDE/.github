@@ -2,7 +2,7 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">🌀SPLAYFUNITY🌀</h1>
+<h1 align="center">SPLAYFUNITY</h1>
 <h3 align="center">Official github server for the Splayfunity Discord/Youtube network</h3>
 
 <br>
